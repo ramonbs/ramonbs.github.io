@@ -163,7 +163,7 @@ footer{
 
 .back-button > a {
     position: fixed; 
-    bottom: 50px; 
+    bottom: 90px; 
     right: 20px; 
     z-index: 99; 
     border: none; 
